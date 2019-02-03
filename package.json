@@ -1,0 +1,18 @@
+{
+  "name": "ThroneOfTheGGGang",
+  "version": "1.0.0",
+  "description": "fuck",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
